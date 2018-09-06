@@ -1,0 +1,17 @@
+..\..\output\loragw_reg.o: ..\..\User\SX1301\src\loragw_reg.c
+..\..\output\loragw_reg.o: ..\..\User\SX1301\inc\loragw_spi.h
+..\..\output\loragw_reg.o: ..\..\Libraries\FWlib\inc\stm32f10x_spi.h
+..\..\output\loragw_reg.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\loragw_reg.o: ..\..\Libraries\CMSIS\core_cm3.h
+..\..\output\loragw_reg.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\..\output\loragw_reg.o: ..\..\Libraries\CMSIS\system_stm32f10x.h
+..\..\output\loragw_reg.o: ..\..\User\stm32f10x_conf.h
+..\..\output\loragw_reg.o: ..\..\Libraries\FWlib\inc\stm32f10x_gpio.h
+..\..\output\loragw_reg.o: ..\..\Libraries\CMSIS\stm32f10x.h
+..\..\output\loragw_reg.o: ..\..\Libraries\FWlib\inc\stm32f10x_rcc.h
+..\..\output\loragw_reg.o: ..\..\Libraries\FWlib\inc\stm32f10x_usart.h
+..\..\output\loragw_reg.o: ..\..\Libraries\FWlib\inc\misc.h
+..\..\output\loragw_reg.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\..\output\loragw_reg.o: ..\..\User\usart\bsp_usart.h
+..\..\output\loragw_reg.o: ..\..\User\SX1301\inc\loragw_reg.h
+..\..\output\loragw_reg.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdbool.h
